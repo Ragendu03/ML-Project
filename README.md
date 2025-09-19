@@ -1,2 +1,7 @@
 # ML-Project
 Classification with Logistic Regression and Random Forests 
+Parkinson’s Disease (PD) is a chronic, progressive neurological disorder that primarily affects motor control but also influences speech, posture, and other physiological functions. Early and accurate diagnosis of PD is critical, as timely intervention can significantly improve patient outcomes and quality of life. Traditional diagnosis relies heavily on clinical expertise and observation of motor symptoms, which may appear only after substantial neurological damage has occurred. 
+
+With the growth of data-driven technologies, machine learning has emerged as a promising tool for supporting medical diagnosis. Biomedical voice analysis provides valuable information since speech impairments are among the earliest indicators of Parkinson’s Disease. Voice features such as jitter, shimmer, and frequency perturbations capture subtle irregularities in vocal fold vibrations, which can serve as biomarkers for detecting PD. 
+
+This project aims to apply machine learning techniques to classify individuals as having Parkinson’s Disease or not, based on a dataset of biomedical voice measurements. Using methods such as Logistic Regression and Random Forest, the study explores model performance, feature relationships, and classification accuracy. By comparing results, the project highlights the strengths of different approaches and demonstrates the potential of machine learning in assisting healthcare professionals with early diagnosis. 
